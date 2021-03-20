@@ -1,4 +1,4 @@
-class st 
+  class st 
   {
     public static void cal()
     {
@@ -13,5 +13,4 @@ class st
         }
         System.out.println();
         }}
-        
     }
